@@ -13,8 +13,3 @@ A Python web scraping bot that extracts data from a given webpage and exports it
 - BeautifulSoup
 - Selenium (for JS-rendered pages)
 - Pandas
-
-## How to Run
-```bash
-pip install -r requirements.txt
-python scraper.py
